@@ -24,23 +24,6 @@ Follow these steps to get the project up and running on your local machine:
 4. Access the Django app:
 Open your web browser and navigate to http://localhost:8000
 
-## Deploying the Django App on AWS EC2
-
-Follow these steps to deploy the Django app on an AWS EC2 instance:
-
-1. **Launch an EC2 Instance:**
-
-   - Choose an instance type (e.g., t2.micro).
-   - Configure security groups to allow incoming traffic on port 80.
-   - Download the key pair for SSH access.
-
-2. **SSH into the EC2 Instance:**
-
-   ```bash
-   ssh -i /path/to/your/key.pem ec2-user@your-instance-ip
-   ```
-3. Access the Django app:
-Open your web browser and navigate to http://localhost:8000
 
 ## Deployment on AWS EC2
 
