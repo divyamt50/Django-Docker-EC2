@@ -1,6 +1,5 @@
 # Django-Docker-EC2
 
-# Django Docker EC2 Example
 
 This repository contains a basic Django project that is Dockerized and can be deployed on an AWS EC2 instance.
 
